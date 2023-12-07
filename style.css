@@ -223,3 +223,16 @@ body{
 .cd1{
     background-image: url('https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ae178e75-38aa-4212-ba98-3f2d45b7ac13/air-max-90-shoes-0MB5rJ.png');
 }
+@media screen and (max-width: 700px){
+.ppa{
+    margin-left: 50px;
+}
+.zsn{
+    margin-left: 50px;
+}
+.lcl{
+    margin-left: 50px;
+}
+
+}
+    
